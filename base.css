@@ -45,6 +45,11 @@ h3{
         font-size: 20px;
 }
 
-.click{
-    
+button{
+    background-color: white;
+}
+
+img{
+    padding-top: 2%;
+    margin-bottom: -5%;
 }

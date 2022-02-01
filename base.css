@@ -37,7 +37,7 @@ h1{
 
 h2{
     font-family: 'Ubuntu Condensed', sans-serif;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 h3{
@@ -52,4 +52,8 @@ button{
 img{
     padding-top: 2%;
     margin-bottom: -5%;
+}
+
+#coordinates{
+    font-size: 25px;
 }

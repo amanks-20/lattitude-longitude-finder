@@ -1,6 +1,9 @@
 body{
     margin: auto;
     text-align: center;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.89);
     color: wheat;
+}
+section{
+    width:;
 }
